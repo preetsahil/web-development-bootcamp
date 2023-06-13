@@ -1,0 +1,18 @@
+html{
+    scroll-behavior:smooth;
+  }
+  table,th,tr,td{
+      border: 1px solid black;
+      border-collapse: collapse;
+      table-layout: fixed;
+      width: 30%;
+
+  }
+  .centre{
+      text-align: center;
+  }
+
+  .part1{
+background-color: aqua;
+padding-bottom: 30px;
+  }
